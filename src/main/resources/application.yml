@@ -1,0 +1,5 @@
+server:
+  port: 10065
+spring:
+  application:
+    name: excel-tool
